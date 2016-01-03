@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on わらびボックス</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://warabibox.github.io/post/</link>
     <description>Recent content in Posts on わらびボックス</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Sat, 02 Jan 2016 00:06:36 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://warabibox.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ウェブページ開設！</title>
-      <link>http://localhost:1313/info/create_webpage/</link>
+      <link>http://warabibox.github.io/info/create_webpage/</link>
       <pubDate>Sat, 02 Jan 2016 00:06:36 +0900</pubDate>
       
-      <guid>http://localhost:1313/info/create_webpage/</guid>
+      <guid>http://warabibox.github.io/info/create_webpage/</guid>
       <description>&lt;p&gt;サークル・わらびボックスのウェブページを開設しました！&lt;br /&gt;
 わらびボックスは同人小説サークルです。東方やオリジナル作品の作成を予定しています。&lt;/p&gt;
 
