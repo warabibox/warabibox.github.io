@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ゲーム on わらびボックス</title>
+    <link>http://localhost:1313/categories/%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+    <description>Recent content in ゲーム on わらびボックス</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <lastBuildDate>Sat, 02 Jan 2016 00:06:33 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E3%82%B2%E3%83%BC%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test9</title>
+      <link>http://localhost:1313/blog/2016/01/02/test9/</link>
+      <pubDate>Sat, 02 Jan 2016 00:06:33 +0900</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/01/02/test9/</guid>
+      <description>&lt;p&gt;いそのー&lt;br /&gt;
+やきゅうしようぜー&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

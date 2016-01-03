@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>お知らせ on わらびボックス</title>
+    <link>http://localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+    <description>Recent content in お知らせ on わらびボックス</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <lastBuildDate>Sat, 02 Jan 2016 00:06:36 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ウェブページ開設！</title>
+      <link>http://localhost:1313/info/create_webpage/</link>
+      <pubDate>Sat, 02 Jan 2016 00:06:36 +0900</pubDate>
+      
+      <guid>http://localhost:1313/info/create_webpage/</guid>
+      <description>&lt;p&gt;サークル・わらびボックスのウェブページを開設しました！&lt;br /&gt;
+わらびボックスは同人小説サークルです。東方やオリジナル作品の作成を予定しています。&lt;/p&gt;
+
+&lt;p&gt;よろしくお願いします！&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infos on わらびボックス</title>
+    <link>http://localhost:1313/info/</link>
+    <description>Recent content in Infos on わらびボックス</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <lastBuildDate>Tue, 22 Dec 2015 12:57:01 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hoge4</title>
+      <link>http://localhost:1313/info/hoge4/</link>
+      <pubDate>Tue, 22 Dec 2015 12:57:01 +0900</pubDate>
+      
+      <guid>http://localhost:1313/info/hoge4/</guid>
+      <description>&lt;p&gt;aa
+bb
+cccc
+ddd
+ee&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hoge3</title>
+      <link>http://localhost:1313/info/hoge3/</link>
+      <pubDate>Sat, 05 Dec 2015 10:54:19 +0900</pubDate>
+      
+      <guid>http://localhost:1313/info/hoge3/</guid>
+      <description>&lt;p&gt;hoge3&lt;br /&gt;
+bbb&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hoge2</title>
+      <link>http://localhost:1313/info/hoge2/</link>
+      <pubDate>Sat, 05 Dec 2015 10:54:15 +0900</pubDate>
+      
+      <guid>http://localhost:1313/info/hoge2/</guid>
+      <description>&lt;p&gt;hoge2&lt;br /&gt;
+aaaa&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hoge</title>
+      <link>http://localhost:1313/info/hoge/</link>
+      <pubDate>Thu, 03 Dec 2015 23:25:09 +0900</pubDate>
+      
+      <guid>http://localhost:1313/info/hoge/</guid>
+      <description>&lt;p&gt;hogehoge
+hogehoge!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
