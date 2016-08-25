@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://warabibox.net/</loc>
     <lastmod>2016-05-06T23:25:43+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/info/about_reitaisai_13th/</loc>
+    <loc>http://warabibox.net/info/about_reitaisai_13th/</loc>
     <lastmod>2016-05-06T23:25:43+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/info/participate_reitaisai_13th/</loc>
+    <loc>http://warabibox.net/info/participate_reitaisai_13th/</loc>
     <lastmod>2016-03-25T23:40:21+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/info/create_webpage/</loc>
+    <loc>http://warabibox.net/info/create_webpage/</loc>
     <lastmod>2016-01-02T00:06:36+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://warabibox.net/about/</loc>
     <lastmod>2015-11-30T06:23:22+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/link/</loc>
+    <loc>http://warabibox.net/link/</loc>
     <lastmod>2015-11-30T06:23:22+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/works/</loc>
+    <loc>http://warabibox.net/works/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
