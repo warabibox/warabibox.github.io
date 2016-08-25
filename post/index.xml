@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on わらびボックス</title>
-    <link>http://warabibox.net/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on わらびボックス</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Fri, 06 May 2016 23:25:43 +0900</lastBuildDate>
-    <atom:link href="http://warabibox.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>第13回博麗神社例大祭の詳細</title>
-      <link>http://warabibox.net/info/about_reitaisai_13th/</link>
+      <link>http://localhost:1313/info/about_reitaisai_13th/</link>
       <pubDate>Fri, 06 May 2016 23:25:43 +0900</pubDate>
       
-      <guid>http://warabibox.net/info/about_reitaisai_13th/</guid>
+      <guid>http://localhost:1313/info/about_reitaisai_13th/</guid>
       <description>&lt;p&gt;5月8日に開催される第13回博麗神社例大祭に参加します。
 「東4 て01b」で「幻想郷天下一舞踏会！」を頒布します！&lt;/p&gt;
 
@@ -45,13 +45,13 @@
 &lt;/p&gt;
 
 &lt;p&gt;&lt;CENTER&gt;
-&lt;img src=&#34;http://warabibox.net/images/tenkaichi_butokai.jpg&#34; alt=&#34;天下一舞踏会&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/tenkaichi_butokai.jpg&#34; alt=&#34;天下一舞踏会&#34;&gt;
 &lt;/CENTER&gt;&lt;/p&gt;
 
 &lt;p&gt;また「Studio Rice Cake」さんの「マヨヒガに行こう！」も委託販売します。
 こちらは華扇が主人公で、マヨヒガを探して色々な事が起こる物語です。
 &lt;CENTER&gt;
-&lt;img src=&#34;http://warabibox.net/images/mayohiga.jpg&#34; alt=&#34;マヨヒガに行こう！&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/mayohiga.jpg&#34; alt=&#34;マヨヒガに行こう！&#34;&gt;
 &lt;/CENTER&gt;
 &lt;a href=&#34;http://www.ricecake.st/?p=1344&#34;&gt;マヨヒガに行こうのリンクはこちら&lt;/a&gt;&lt;/p&gt;
 
@@ -62,14 +62,14 @@
     
     <item>
       <title>第13回博麗神社例大祭に参加します！</title>
-      <link>http://warabibox.net/info/participate_reitaisai_13th/</link>
+      <link>http://localhost:1313/info/participate_reitaisai_13th/</link>
       <pubDate>Fri, 25 Mar 2016 23:40:21 +0900</pubDate>
       
-      <guid>http://warabibox.net/info/participate_reitaisai_13th/</guid>
+      <guid>http://localhost:1313/info/participate_reitaisai_13th/</guid>
       <description>&lt;p&gt;5月8日に開催される第13回博麗神社例大祭に参加します！&lt;br /&gt;
 「東4 て01b」で小説本の頒布を予定しています。&lt;br /&gt;
 &lt;CENTER&gt;
-&lt;img src=&#34;http://warabibox.net/images/circle_cut_20160325.png&#34; alt=&#34;サークルカット&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/circle_cut_20160325.png&#34; alt=&#34;サークルカット&#34;&gt;
 &lt;/CENTER&gt;&lt;/p&gt;
 
 &lt;p&gt;サークルカットはStudioRiceCakeのVTRerさんに描いていただきました。&lt;br /&gt;
@@ -81,10 +81,10 @@
     
     <item>
       <title>ウェブページ開設！</title>
-      <link>http://warabibox.net/info/create_webpage/</link>
+      <link>http://localhost:1313/info/create_webpage/</link>
       <pubDate>Sat, 02 Jan 2016 00:06:36 +0900</pubDate>
       
-      <guid>http://warabibox.net/info/create_webpage/</guid>
+      <guid>http://localhost:1313/info/create_webpage/</guid>
       <description>&lt;p&gt;サークル・わらびボックスのウェブページを開設しました！&lt;br /&gt;
 わらびボックスは同人小説サークルです。東方やオリジナル作品の作成を予定しています。&lt;/p&gt;
 
